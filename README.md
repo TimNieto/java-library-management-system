@@ -114,17 +114,21 @@ java -cp ".:out:lib/sqlite-jdbc-3.47.1.0.jar" LibraryGUI
 
 ![Books Table After Adding a Book](library-management-system/assets/sample-output2.png)
 
+### Add Member Form
+
+![Add Member Form](library-management-system/assets/sample-output3.png)
+
 ### Members Table After Adding a Member
 
-![Members Table After Adding a Member](library-management-system/assets/sample-output3.png)
+![Members Table After Adding a Member](library-management-system/assets/sample-output4.png)
 
 ### Borrow and Return Form
 
-![Borrow and Return Form](library-management-system/assets/sample-output4.png)
+![Borrow and Return Form](library-management-system/assets/sample-output5.png)
 
 ### Borrowed Books Table
 
-![Borrowed Books Table](library-management-system/assets/sample-output5.png)
+![Borrowed Books Table](library-management-system/assets/sample-output6.png)
 
 ## Database Notes
 
