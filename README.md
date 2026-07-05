@@ -24,7 +24,7 @@ This project demonstrates core object-oriented programming concepts such as enca
 ## Project Structure
 
 ```text
-library-management-system-java/
+java-library-management-system/
 ├── .gitignore
 ├── README.md
 └── library-management-system/
@@ -58,13 +58,13 @@ library-management-system-java/
 1. Clone the repository:
 
 ```powershell
-git clone https://github.com/TimNieto/library-management-system-java.git
+git clone https://github.com/TimNieto/java-library-management-system.git
 ```
 
 2. Go to the project folder:
 
 ```powershell
-cd library-management-system-java\library-management-system
+cd java-library-management-system\library-management-system
 ```
 
 3. Compile the program:
@@ -84,13 +84,13 @@ java -cp ".;out;lib\sqlite-jdbc-3.47.1.0.jar" LibraryGUI
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/TimNieto/library-management-system-java.git
+git clone https://github.com/TimNieto/java-library-management-system.git
 ```
 
 2. Go to the project folder:
 
 ```bash
-cd library-management-system-java/library-management-system
+cd java-library-management-system/library-management-system
 ```
 
 3. Compile the program:
